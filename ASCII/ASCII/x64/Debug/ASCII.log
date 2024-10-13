@@ -1,0 +1,3 @@
+﻿  源.c
+D:\c语言代码储存\ASCII\源.c(18,2): warning C4013: “system”未定义；假设外部返回 int
+  ASCII.vcxproj -> D:\c语言代码储存\ASCII\x64\Debug\ASCII.exe
